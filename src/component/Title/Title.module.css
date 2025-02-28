@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 82dvw;
+  height: 82dvh;
+  padding: 0 8.96%;
+}
+
+.right h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 6.5rem;
+  font-weight: bold;
+}
+
+.right button {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  color: white;
+  font-weight: 600;
+  padding: 0.5rem 3.5rem;
+  background-color: black;
+  border-radius: 5px;
+  border: transparent;
+  outline: none;
+  margin-left: 24rem;
+}
